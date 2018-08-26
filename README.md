@@ -1,1 +1,4 @@
 # osero
+DQNを用いたオセロゲームを作ってみました
+深層強化学習の勉強の一環です
+jupyter notebook形式とpython形式の二つあります
